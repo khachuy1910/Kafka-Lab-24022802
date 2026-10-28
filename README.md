@@ -2,7 +2,7 @@
 
 - **Học phần:** Lập trình mạng (Lớp 2627I_INT3304_3)
 - **Giảng viên:** ThS. Kiều Hữu Thu
-- **Sinh viên / Nhóm:** [Họ và tên] - MSSV: [MSSV]
+- **Sinh viên / Nhóm:** Nguyễn Khắc Huy - MSSV: 24022802
 
 ## Môi trường
 
